@@ -1,0 +1,6 @@
+{
+  "name": "Mindloop",
+  "description": "A premium newsletter/content platform landing page with dark monochrome aesthetic, scroll-driven word-reveal animations, and seamless background videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
